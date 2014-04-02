@@ -1,7 +1,7 @@
 Laravel Cassandra
 =========
 
-Laravel package 
+Laravel package for working with cassandra.
 
 Installation
 ----
