@@ -1,0 +1,23 @@
+{
+    "name": "kalpeshhpatel/laravel-cassandra",
+    "description": "",
+    "authors": [
+        {
+            "name": "KalpeshPatel",
+            "email": "kalpeshpatel.2289@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Kalpeshhpatel\\LaravelCassandra\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
