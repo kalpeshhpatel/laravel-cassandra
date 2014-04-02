@@ -45,7 +45,4 @@ return array(
 
 This package is basically wrapper of [PHPCassa] libray in Laravel terms.
 
-####Usage advice
-This package should be used with [Laravel Queues], so pushes dont blocks the user and are processed in the background, meaning a better flow.
-
 [PHPCassa]:https://github.com/thobbs/phpcassa
